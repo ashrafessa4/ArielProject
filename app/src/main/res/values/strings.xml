@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Code Quiz</string>
+    <string name="get_started">Get Started</string>
+    <string name="about">About</string>
+    <string name="codequiz">CodeQuiz!</string>
+    <string name="welcome_to">Welcome to</string>
+    <string name="back">back</string>
+    <string name="google_client_id">651132403714-bslgtkscklmlsc8hk6ii60e5gsgqdt7g.apps.googleusercontent.com</string>
+</resources>
